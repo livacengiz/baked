@@ -8,3 +8,4 @@
 - Renamed `Service` recipe to `Monolith`
 - `ServiceNfr` and `ServiceSpec` renamed to `MonolithNfr` and `MonolithSpec`
 - Style improvement:  `PageTitle`, `bg-color`
+- Allow number types on `Parameters`
